@@ -1,0 +1,3 @@
+[submodule "GraphANNS"]
+	path = GraphANNS
+	url = https://github.com/whenever5225/GraphANNS.git
