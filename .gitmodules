@@ -1,0 +1,6 @@
+[submodule "embedding/CLIP4CirDemo"]
+	path = embedding/CLIP4CirDemo
+	url = https://github.com/ABaldrati/CLIP4CirDemo.git
+[submodule "embedding/tirg"]
+	path = embedding/tirg
+	url = https://github.com/google/tirg.git
