@@ -53,7 +53,7 @@ CMake 2.8+
 
 (i) Embedding
 
-See [here](https://anonymous.4open.science/r/MUST/embedding).
+Refer to [TIRG](https://github.com/google/tirg) and [CLIP](https://github.com/ABaldrati/CLIP4CirDemo).
 
 We convert vectors of all objects and query inputs to `fvecs` format or `ivecs` format, and groundtruth data to `ivecs` format. For the description of `fvecs` and `ivecs` format, see [here](http://yael.gforge.inria.fr/file_format.html).
 
