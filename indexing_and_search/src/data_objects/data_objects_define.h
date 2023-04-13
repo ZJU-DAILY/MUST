@@ -1,6 +1,6 @@
 /***************************
-@Author: Chunel
-@Contact: chunel@foxmail.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: data_objects_define.h
 @Time: 2022/5/2 11:18
 @Desc: 

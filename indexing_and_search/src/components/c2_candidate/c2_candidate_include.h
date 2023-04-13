@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xx.com
 @File: c2_candidate_include.h
 @Time: 2022/4/11 7:02 PM
 @Desc:

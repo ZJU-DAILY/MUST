@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xx.com
 @File: c1_initialization_kgraph.h
 @Time: 2022/4/4 4:51 PM
 @Desc: randomly initialize a graph index (like 'KGraph' algorithm)

@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: attribute_distance.h
 @Time: 2022/10/17 9:41 PM
 @Desc: attribute distance, number of unequal attributes

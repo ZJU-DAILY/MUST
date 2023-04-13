@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxxx
+@Contact: xxx@xxx.com
 @File: hamming_distance.h
 @Time: 2022/9/30 8:59 PM
 @Desc:

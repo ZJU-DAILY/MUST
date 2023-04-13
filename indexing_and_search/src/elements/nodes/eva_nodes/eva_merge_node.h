@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: eva_merge_node.h
 @Time: 2022/11/1 6:59 PM
 @Desc: merge multichannel results

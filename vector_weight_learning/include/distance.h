@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xx.com
 @File: distance.h
 @Time: 2022/11/12 9:17 AM
 @Desc: distance calculation type

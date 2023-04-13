@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xx.com
 @File: c1_initialization_basic.h
 @Time: 2022/4/11 7:04 PM
 @Desc:

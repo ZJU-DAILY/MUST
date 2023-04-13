@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: c6_seed_include.h
 @Time: 2022/4/12 9:59 AM
 @Desc:

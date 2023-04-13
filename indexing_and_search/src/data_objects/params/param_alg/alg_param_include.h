@@ -1,6 +1,6 @@
 /***************************
-@Author: Chunel
-@Contact: chunel@foxmail.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: param_alg_include.h
 @Time: 2022/5/1 15:35
 @Desc: 

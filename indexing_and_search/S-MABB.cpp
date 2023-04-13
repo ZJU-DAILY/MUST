@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: S-MABB.cpp
 @Time: 2022/11/1 8:32 PM
 @Desc: Multichannel aggregation by brute force

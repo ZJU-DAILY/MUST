@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: c7_routing_kgraph_modal2.h
 @Time: 2022/11/1 6:54 PM
 @Desc: modal2 search routing

@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: search_region.h
 @Time: 2022/4/8 10:24 AM
 @Desc: perform multiple queries in SearchRegion, determined by "q_num" parameter

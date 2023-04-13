@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: S-MABG.cpp
 @Time: 2022/10/31 10:01 PM
 @Desc: Multichannel Aggregation By Graph

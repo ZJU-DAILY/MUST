@@ -28,7 +28,7 @@ dataset() {
       MODAL1_QUERY_PATH="${DATASET_ROOT}/${DATASET}/${DATASET}_modal1_query.fvecs"
       MODAL2_QUERY_PATH="${DATASET_ROOT}/${DATASET}/${DATASET}_modal2_query.ivecs"
       GROUNDTRUTH_PATH="${DATASET_ROOT}/${DATASET}/${DATASET}_gt.ivecs"
-#      GROUNDTRUTH_PATH="/home/zjlab/ANNS/dataset/sift/sift_groundtruth.ivecs"
+#      GROUNDTRUTH_PATH="/home/xxxxx/ANNS/dataset/sift/sift_groundtruth.ivecs"
       DELETE_ID_PATH="NULL"
     ;;
     celeba)
@@ -186,11 +186,11 @@ dataset() {
       esac
     ;;
     ImageText1M|AudioText1M|VideoText1M)
-      MODAL1_BASE_PATH="/home/zjlab/ANNS/wmz/GraphANNS/doc/dataset/sift1m/sift1m_modal1_base.fvecs"
-      MODAL2_BASE_PATH="/home/zjlab/ANNS/wmz/int_label_base.ivecs"
-      MODAL1_QUERY_PATH="/home/zjlab/ANNS/wmz/GraphANNS/doc/dataset/sift1m/sift1m_modal1_query.fvecs"
-      MODAL2_QUERY_PATH="/home/zjlab/ANNS/wmz/int_label_query.ivecs"
-      GROUNDTRUTH_PATH="/home/zjlab/ANNS/dataset/sift/label_sift_groundtruth.ivecs"
-      DELETE_ID_PATH="/home/zjlab/ANNS/wmz/GraphANNS/doc/dataset/shopping100k/test/bottoms/shopping100k_bottoms_delete_id.ivecs"
+      MODAL1_BASE_PATH="/home/xxxxx/ANNS/xxx/GraphANNS/doc/dataset/sift1m/sift1m_modal1_base.fvecs"
+      MODAL2_BASE_PATH="/home/xxxxx/ANNS/xxx/int_label_base.ivecs"
+      MODAL1_QUERY_PATH="/home/xxxxx/ANNS/xxx/GraphANNS/doc/dataset/sift1m/sift1m_modal1_query.fvecs"
+      MODAL2_QUERY_PATH="/home/xxxxx/ANNS/xxx/int_label_query.ivecs"
+      GROUNDTRUTH_PATH="/home/xxxxx/ANNS/dataset/sift/label_sift_groundtruth.ivecs"
+      DELETE_ID_PATH="/home/xxxxx/ANNS/xxx/GraphANNS/doc/dataset/shopping100k/test/bottoms/shopping100k_bottoms_delete_id.ivecs"
   esac
 }

@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: inner_product.h
 @Time: 2022/10/22 11:48 AM
 @Desc: Inner Product

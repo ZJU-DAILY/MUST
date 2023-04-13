@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xx.com
 @File: util.h
 @Time: 2022/11/12 12:10 PM
 @Desc: util include

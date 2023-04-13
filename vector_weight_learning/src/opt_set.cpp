@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xx.com
 @File: opt_set.cpp
 @Time: 2022/11/12 9:57 AM
 @Desc: operation set

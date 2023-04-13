@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: neighbor.h
 @Time: 2022/4/12 11:13 AM
 @Desc: simple neighbor with <id> and <distances> information

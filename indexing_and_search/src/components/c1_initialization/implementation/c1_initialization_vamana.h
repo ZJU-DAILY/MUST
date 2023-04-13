@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xx.com
 @File: c1_initialization_vamana.h
 @Time: 2022/3/26 9:38 PM
 @Desc: randomly initialize a graph index (like 'Vamana' algorithm in DiskANN)

@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: eva_brute_force.h
 @Time: 2022/10/13 9:04 PM
 @Desc: obtain result with brute force

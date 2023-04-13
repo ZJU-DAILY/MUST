@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxxx
+@Contact: xxx@xxx.com
 @File: neighbor_flag.h
 @Time: 2022/4/14 10:04 PM
 @Desc: candidate results when searching

@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: gen_random_id.h
 @Time: 2022/4/1 8:00 PM
 @Desc:

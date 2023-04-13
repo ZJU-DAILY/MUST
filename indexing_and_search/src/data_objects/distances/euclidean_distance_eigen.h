@@ -1,6 +1,6 @@
 /***************************
-@Author: Chunel
-@Contact: chunel@foxmail.com
+@Author: xxxx
+@Contact: xxx@xxx.com
 @File: euclidean_distance_eigen.h
 @Time: 2022/5/26 22:48
 @Desc: 

@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xx.com
 @File: opt_set.h
 @Time: 2022/11/12 12:09 PM
 @Desc: operation set include

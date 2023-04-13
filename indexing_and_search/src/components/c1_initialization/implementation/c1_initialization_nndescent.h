@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xx.com
 @File: c1_initialization_nndescent.h
 @Time: 2022/5/21 7:20 PM
 @Desc: initialize a graph index with NNDescent (like 'NSG' algorithm)

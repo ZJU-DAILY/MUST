@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: load_modal1_index_node.h
 @Time: 2022/11/1 5:09 PM
 @Desc: load modal1 index

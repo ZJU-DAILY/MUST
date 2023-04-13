@@ -1,6 +1,6 @@
 /***************************
-@Author: Chunel
-@Contact: chunel@foxmail.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: config_model_node.h
 @Time: 2022/5/2 11:34
 @Desc: 

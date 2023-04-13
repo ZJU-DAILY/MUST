@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxxx
+@Contact: xxx@xxx.com
 @File: meta_vector.h
 @Time: 2022/10/29 11:39 AM
 @Desc:

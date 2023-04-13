@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xx.com
 @File: c2_candidate_nssgv1.h
 @Time: 2022/4/4 4:43 PM
 @Desc: get candidate neighbors via second-order neighbor propagation (like 'NSSG' algorithm)

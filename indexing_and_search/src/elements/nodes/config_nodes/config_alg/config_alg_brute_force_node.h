@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: config_alg_brute_force_node.h
 @Time: 2022/10/13 9:36 PM
 @Desc:

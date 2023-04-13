@@ -53,7 +53,7 @@ CMake 2.8+
 
 (i) Embedding
 
-See here.
+See [here](https://anonymous.4open.science/r/MUST/embedding).
 
 We convert vectors of all objects and query inputs to `fvecs` format or `ivecs` format, and groundtruth data to `ivecs` format. For the description of `fvecs` and `ivecs` format, see [here](http://yael.gforge.inria.fr/file_format.html).
 

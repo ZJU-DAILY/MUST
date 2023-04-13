@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: graph_anns.h
 @Time: 2022/4/12 9:54 AM
 @Desc:

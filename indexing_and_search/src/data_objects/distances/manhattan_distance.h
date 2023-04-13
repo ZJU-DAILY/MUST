@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxxx@xxx.com
 @File: manhattan_distance.h
 @Time: 2022/10/22 11:20 AM
 @Desc: Manhattan Distance Calculation

@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xx.com
 @File: c1_initialization_kgraph_openmp.h
 @Time: 2022/10/5 10:38 AM
 @Desc: OpenMP support

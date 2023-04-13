@@ -1,6 +1,6 @@
 /***************************
-@Author: Chunel
-@Contact: chunel@foxmail.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: params_define.h
 @Time: 2022/5/1 20:41
 @Desc: 

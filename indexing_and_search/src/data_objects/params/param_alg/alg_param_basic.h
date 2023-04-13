@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: alg_param_basic.h
 @Time: 2022/10/14 10:10 AM
 @Desc:

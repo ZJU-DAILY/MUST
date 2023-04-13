@@ -64,8 +64,8 @@ class CMakeBuild(build_ext):
 setup(
     name='pymswl',
     version='0.1',
-    author='wmz',
-    author_email='wmzssy@zju.edu.cn',
+    author='xxx',
+    author_email='xxx',
     description='Python library for WeightLearning algorithm',
     long_description='',
     ext_modules=[CMakeExtension('pymswl')],

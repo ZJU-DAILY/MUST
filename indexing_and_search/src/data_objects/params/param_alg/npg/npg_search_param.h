@@ -1,6 +1,6 @@
 /***************************
-@Author: Chunel
-@Contact: chunel@foxmail.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: param_npg_search.h
 @Time: 2022/5/1 15:25
 @Desc: 

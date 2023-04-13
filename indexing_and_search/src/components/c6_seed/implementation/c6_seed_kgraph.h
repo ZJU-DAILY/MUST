@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: c6_seed_kgraph.h
 @Time: 2022/4/7 9:07 PM
 @Desc: seed vertex (entry) acquisition by random selection (like 'KGraph' algorithm)

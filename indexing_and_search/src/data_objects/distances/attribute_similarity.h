@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: attribute_similarity.h
 @Time: 2022/10/22 12:04 PM
 @Desc: Attribute Similarity

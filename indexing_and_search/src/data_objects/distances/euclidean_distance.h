@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: euclidean_distance.h
 @Time: 2022/4/1 9:16 PM
 @Desc:

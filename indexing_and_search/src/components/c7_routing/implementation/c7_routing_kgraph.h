@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: c7_routing_kgraph.h
 @Time: 2022/4/8 8:37 AM
 @Desc: greedy route (like 'KGraph' algorithm)

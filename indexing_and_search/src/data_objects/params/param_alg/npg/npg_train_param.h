@@ -1,6 +1,6 @@
 /***************************
-@Author: Chunel
-@Contact: chunel@foxmail.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: npg_train_param.h
 @Time: 2022/5/1 15:18
 @Desc: 

@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: c6_seed_kgraph_modal1.h
 @Time: 2022/11/1 5:18 PM
 @Desc: modal1 search seed

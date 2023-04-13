@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: search_cluster_modal2.h
 @Time: 2022/11/1 7:33 PM
 @Desc: search cluster modal2

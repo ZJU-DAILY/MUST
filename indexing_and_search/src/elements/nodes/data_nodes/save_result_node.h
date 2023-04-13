@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: save_result_node.h
 @Time: 2022/10/27 7:03 PM
 @Desc: save search result

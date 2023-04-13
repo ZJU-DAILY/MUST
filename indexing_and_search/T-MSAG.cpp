@@ -1,6 +1,6 @@
 /***************************
-@Author: Chunel
-@Contact: chunel@foxmail.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: T-siftsmall.cpp
 @Time: 2022/4/30 17:24
 @Desc:

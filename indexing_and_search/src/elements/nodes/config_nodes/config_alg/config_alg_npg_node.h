@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: config_alg_npg_node.h
 @Time: 2022/4/14 6:56 PM
 @Desc: 'npg' algorithm configuration

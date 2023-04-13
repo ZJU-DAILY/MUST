@@ -1,6 +1,6 @@
 /***************************
-@Author: Chunel
-@Contact: chunel@foxmail.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: graph_ann_define.h
 @Time: 2022/4/28 23:40
 @Desc: common anns algo configuration

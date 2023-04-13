@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: eva_modal1_brute_force_node.h
 @Time: 2022/11/1 8:36 PM
 @Desc: modal1 brute force

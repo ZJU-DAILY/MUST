@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: train_region.h
 @Time: 2022/4/19 4:31 PM
 @Desc: region for index building

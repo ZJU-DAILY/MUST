@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: load_index_node.h
 @Time: 2022/4/7 8:31 PM
 @Desc: load graph index from file

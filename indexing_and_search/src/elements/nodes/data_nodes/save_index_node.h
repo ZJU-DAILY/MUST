@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: save_index_node.h
 @Time: 2022/4/7 7:25 PM
 @Desc: save graph index to file

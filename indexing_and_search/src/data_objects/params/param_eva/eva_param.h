@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxxx@xxx.com
 @File: eva_param.h
 @Time: 2022/4/8 4:36 PM
 @Desc: parameters for performance evaluation

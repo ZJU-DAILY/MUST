@@ -1,6 +1,6 @@
 /***************************
-@Author: Chunel
-@Contact: chunel@foxmail.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: c4_connectivity_basic.h
 @Time: 2022/4/28 22:48
 @Desc: 

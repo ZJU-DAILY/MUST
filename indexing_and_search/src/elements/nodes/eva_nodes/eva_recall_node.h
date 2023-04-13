@@ -1,6 +1,6 @@
 /***************************
-@Author: wmz
-@Contact: wmengzhao@qq.com
+@Author: xxx
+@Contact: xxx@xxx.com
 @File: eva_recall_node.h
 @Time: 2022/4/8 4:31 PM
 @Desc: calculate recall rate

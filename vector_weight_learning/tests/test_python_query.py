@@ -9,19 +9,19 @@ import pyssg
 def setup_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--base1", type=str,
-                        default="/home/zjlab/ANNS/wmz/GraphANNS/doc/dataset/siftsmall/siftsmall_modal1_base.fvecs",
+                        default="/home/xxxxx/ANNS/xxx/GraphANNS/doc/dataset/siftsmall/siftsmall_modal1_base.fvecs",
                         help="fvecs file for base1 vectors")
     parser.add_argument("--base2", type=str,
-                        default="/home/zjlab/ANNS/wmz/GraphANNS/doc/dataset/siftsmall/siftsmall_modal2_base.ivecs",
+                        default="/home/xxxxx/ANNS/xxx/GraphANNS/doc/dataset/siftsmall/siftsmall_modal2_base.ivecs",
                         help="fvecs file for base2 vectors")
     parser.add_argument("--query1", type=str,
-                        default="/home/zjlab/ANNS/wmz/GraphANNS/doc/dataset/siftsmall/siftsmall_modal1_query.fvecs",
+                        default="/home/xxxxx/ANNS/xxx/GraphANNS/doc/dataset/siftsmall/siftsmall_modal1_query.fvecs",
                         help="fvecs file for query1 vectors")
     parser.add_argument("--query2", type=str,
-                        default="/home/zjlab/ANNS/wmz/GraphANNS/doc/dataset/siftsmall/siftsmall_modal2_query.ivecs",
+                        default="/home/xxxxx/ANNS/xxx/GraphANNS/doc/dataset/siftsmall/siftsmall_modal2_query.ivecs",
                         help="fvecs file for query2 vectors")
     parser.add_argument("--groundtruth", type=str,
-                        default="/home/zjlab/ANNS/wmz/GraphANNS/doc/dataset/siftsmall/siftsmall_gt.ivecs",
+                        default="/home/xxxxx/ANNS/xxx/GraphANNS/doc/dataset/siftsmall/siftsmall_gt.ivecs",
                         help="ivecs file for groundtruth")
     parser.add_argument("--graph", type=str,
                         default="./graphs/sift.ssg",
