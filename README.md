@@ -45,7 +45,7 @@ To obtain embedding vectors, we use the same training hyper-parameters as the or
 ```shell
 PyTorch
 Pybind
-GCC 4.9+ wih OpenMP
+GCC 4.9+ with OpenMP
 CMake 2.8+
 ```
 
